@@ -1,4 +1,4 @@
-# Mediacl Care Doctor Website
+# Medical Care Doctor Website
 
 Please visite our site [medical care](https://medical-care-96a0f.web.app/).
 
