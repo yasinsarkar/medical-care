@@ -1,0 +1,14 @@
+.privacy{
+    background-image: url("../images/mission.jpg"),
+      linear-gradient(rgba(253, 253, 253, 0.692), rgba(250, 249, 249, 0.74))
+      ;
+      
+      width: 100%;
+      background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.privacy p{
+    color:black
+}

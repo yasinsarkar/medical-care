@@ -1,0 +1,18 @@
+ 
+.banner_container{
+    background-image: url("../../images/pexels-karolina-grabowska-4386470.jpg");
+    height: 630px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.banner_title{
+    font-size: 50px;
+    font-weight: 800;
+    color: #ffffff;
+}
+.banner_des{
+    text-transform: uppercase;
+    color: #ffffff;
+}

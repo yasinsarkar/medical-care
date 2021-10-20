@@ -1,0 +1,50 @@
+[
+    {
+        "key": "1",
+        "name": "Ophthalmology",
+        "img":"https://i.ibb.co/ZBhxs55/ophthalmology.png",
+        "description":"Lazy eye, or amblyopia, happens when one eye doesn’t develop properly. Vision is weaker in that eye, and it tends to move “lazily” around while the other eye stays put. It’s found in infants, children, and adults, and rarely affects both eyes. Treatment needs to be sought immediately for infants and children.",
+        "price": 108
+        
+    },
+    {
+        "key": "2",       
+        "name": "Cardiology",
+        "img":"https://i.ibb.co/sRVJNRS/nm-ten-signs-cardiologist-preview.png",
+        "description":"ESC CardioMed is your online resource reflecting the latest ESC Clinical Practice Guidelines. It covers more than 60 disciplines within cardiology and is continuously updated to support your training and practice.",
+        "price": 200
+        
+    },
+    {
+        "key": "3",
+        "name": "Dentistry",
+        "img":"https://i.ibb.co/MpCqD0L/110894880-gettyimages-1055182908.png",
+        "description":"Your dentist will inspect each tooth using small instruments inserted into your mouth, such as a mirror and probe (a fine, pick-like tool). The dentist looks for issues such as tooth decay, gum disease and other conditions. ",
+        "price": 320       
+    },
+    {
+        "key": "4",
+        "name": "Dermatology ",
+        "img":"https://i.ibb.co/84XD6Mp/dermatology-skin.png",
+        "description":"The experienced team of dermatologists at University Hospitals has expertise in treating the full spectrum of conditions and diseases affecting the skin. From routine care to more serious conditions that require complex care, we provide state-of-the-art diagnosis and advanced treatment options for all of your family dermatology needs.",
+        "price": 200
+        
+    },
+    {
+        "key": "5",
+        "name": "Orthopaedics",
+        "img":"https://i.ibb.co/S7nPNqV/shoulder-pain-orthopaedics-page-sm.jpg",
+        "description":"Orthopedists treat a wide variety of musculoskeletal conditions. These conditions may be present from birth, or they may occur as a result of injury or age-related wear and tear. An orthopedist may carry out in-office procedures to help diagnose and treat certain musculoskeletal conditions. ",
+        "price": 330       
+    },
+    {
+        "key": "6",
+        "name": "Psychiatry",
+        "img":"https://i.ibb.co/s22gJJT/career-in-psychiatry-1109x675.png",
+        "description":"Sometimes it's difficult to find out which mental illness may be causing your symptoms. But taking the time and effort to get an accurate diagnosis will help determine the appropriate treatment. The more information you have, the more you will be prepared to work with your mental health professional in understanding what your symptoms may represent. ",
+        "price": 220       
+    }
+    
+    
+    
+]
